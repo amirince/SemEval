@@ -1,0 +1,182 @@
+id,text,Anger,Disgust,Fear,Joy,Sadness,Surprise,prediction,raw_response
+amh_dev_track_a_00001,ሀገራችን ልዩነቶችን አምና ለመቀበል መራራ ትግል ቢጠይቃትም ዘመናት አልፋ ብዝሃነትን በተግባር ለማረጋገጥ የሚያስችል ረጅሙን ጉዞ ጀምራ ነበር፡፡ ጉዞው ብዙ ውጣ ውረድ የበዛበት ቢሆ,,,,,,,amharic,the language of the given text is amharic.
+amh_dev_track_a_00002,ሞጣ ሽማግሌ የአመቱ አህያ ዘረኛ ወንዱ ከሆንክ አገር ዉስጥ ገብተህ ታገል ተጋፈጥ ዉጪ አገር ሁነህ አልጋ ስር ተደብቀህ ህዝብ ለህዝብ እሳት ትለኩሳለህ,,,,,,,amharic,"the language of the text you provided is amharic. therefore, the answer is:
+
+{amharic}"
+amh_dev_track_a_00003,የነብስ አባት ለመያዝ ይቅርና፥ ድንገት መንገድ ላይ ያገኘሁት ቄስ ይሁን ጳጳስ፥ በትግራይ ህዝብ ላይ በተደረገው የዘር ማጥፋት ወንጀል ምን ድርሻ እንደነበረው ሳላውቅ ሳላጣራ የያዘውን,,,,,,,NIL,"the language of the given text is:
+
+{english}"
+amh_dev_track_a_00004,ሰማዕታት የዚችን ዓለም ጣዕም በእውነት ናቁ፤ ደማቸውን ስለ እግዚአብሔር አፈሰሱ፤ ስለ መንግሥተ ሰማያት መራራ ሞትን ታገሱ፡፡ የኅሙስ ውዳሴ ማርያም,,,,,,,NIL,{language} somali
+amh_dev_track_a_00005,የእስራኤል በደል ለፋልስጤም ብቻ አይደለም አለም ላይ ያለው ግጭት የእስራኤል እጅ አለበት ምክንያቱም አላህ የከዱ ናቸው አመፀኛ ናቸው እራስ ወዳድ ናቸው ስግብግብ ናቸው እውቀታቸውን ለተንኮል ነው የሚጠቀሙት ድል ለፋለስጢን።,,,,,,,NIL,"based on the given text, i would classify it as being written in english. the language used is consistent with english grammar and syntax, and there are no obvious signs of another language being present. therefore, my answer is {english}."
+amh_dev_track_a_00006,አማራ ወላይታ ሀድያ ስልጤ ጋሞ ጉራጌ በመሆናቸው ብቻ ነው ቤታቸው እየፈረሰ ያለው ንብረታቸው ይዘረፋል ቤት ለፈረሰባቸው ቤት ማከራየት 50 ሺህ ነው ቅጣቱ እጅግ የከፋ ግፍ ነው,,,,,,,amharic,"based on the given text, i would classify it as amharic. the language of the text is most likely amharic because it contains words and phrases that are characteristic of the language, such as ""አማራ"" (amharic for ""book""), ""ወላይታ"" (amharic for ""study""), ""ሀድያ"" (amharic for ""school""), and ""በመሆናቸው"" (amharic for ""it is""). the text also uses grammatical structures that are typical of amharic. therefore, with a high degree of confidence, i would identify the language of the given text as amharic."
+amh_dev_track_a_00007,አመለካከት ዝቅጠት ሰሜንን ማዳከም ሰሜን ራሱን በራሱ የሚያዳክም ነው ደረጀ በጣም አልጠበኩም,,,,,,,NIL,{english}
+amh_dev_track_a_00008,አንዴንድአካባቢወች አትበይ በሁሉ አካባቢነው ጦርነቱ,,,,,,,NIL,{somali}
+amh_dev_track_a_00009,የአዲስ አበባ ህዝብ ንቃ ተደራጅ መሳርያ ባገኝህው አጋጣሚ መሳርያ ገዝተህ የዝህ አይነት አረመኔን ነቅለህ አስወጣ አብይና ግብረ አበሮቹ ሰብስቦ ጅብ ለቆብሃል,,,,,,,NIL,"the language of the given text is:
+
+{somali}"
+amh_dev_track_a_00010,የኛ ቀይ ባህር ሁመራ ነው አለችኮ የለመደች ጦጣ ሁልግዜ ፍርጠጣ አለ ያገሬ ሰው ክክያንች ያልነበረን ያንች ያልሆነን መመኘት ቢቀርብሽ ጥሩ ነው  ያንች ቀይ ባህርሽ ሲሆን ለኛ ደገሞ ቀይ መስመራችን ነው ምክኒያቱም የራሳችንን እንደት አሳልፈን መስጠት ከየት የመጣ ነው እነ ቀንድ አውጣዎችም የናተ ታዛዦችም ምንም በአሁኑ ሰዓት በልጆቹ ተጋድሎ ላይመለሱ ተወግደዋል,,,,,,,amharic,the language of the text is amharic.
+amh_dev_track_a_00011,ልብ ይሰብራል ወገኖቼ ለአሁን መድረስ ባለበት የነፍስአድንድጋፍ ላይ እንረባረብ በቦረና የማይቀረው የድርቅአደጋ ባንዣበበት ጊዜ ከብቱ እዚህ የከፋ ደረጃ እስኪደርስ ድረስና,,,,,,,amharic,"the given text appears to be written in amharic, so the language of the text is {amharic}."
+amh_dev_track_a_00012,ኦ ምርጥ ሚስት የኔ ቆጆ አንተ አስለቀስካት አ የዋህ ሚስት ሰላምሽ ይብዛ big respect በእውነት አናደኸኛል ይችን የመሰልች ቆንጆ ሚስት ለዛውም የልጅህን እናት ማናደድ ተገቢ አይደለም ። ካሁን በኋላ አታስለቅሳት ፕራንክም ልክ አለው ብሮ በተረፈ ይመቻችሁ አይለያችሁ።,,,,,,,amharic,"based on the text you provided, i would classify the language as amharic."
+amh_dev_track_a_00013,ማንቸስተር ዩናይትድ በኒውካስትል ተሸነፈ ምሽቱን በተካሄደው ጨዋታ ባለሜዳዎቹ ኒውካስትል ዩናትዶች ማንቸስተር ዩናትድን 2ለ0 በሆነ ውጤት በማሸነፍ 3 ነጥብ ይዘው ወጥተዋል። ኒውካ,,,,,,,amharic,"the language of the given text is amharic. therefore, the response is:
+amharic"
+amh_dev_track_a_00014,አሀቴ እግዚብሔር መልካም ነው ነብዬ ደረሰ ላቀው ጋ ሄጂ የቤተሰብ ጣጣ ብዙ ነው ጌታ ቀሪ ዘመንሸን የሰላም ይሆናል አመኝኝ,,,,,,,NIL,{language} afar
+amh_dev_track_a_00015,ችሎታህ የማይዋጥላቸው ጠላቶችህ በውሃ ላይ ስትራመድ ቢያዩህ ዋና ስላማይችል ነዉ ይሉሃልጠላቶች መልካም ነገር እንዲገጥምህ በአፋቸው ምኞታቸው እንደሆነ ይገልፁልሃል መልካሙም,,,,,,,NIL,"the language of the given text is english. therefore, the response is:
+
+{english}"
+amh_dev_track_a_00016,ከጆ ባይደን የአሜሪካን ትልቅ ሽልማት የተቀበሉት ተመራማሪው ፕ/ር ጋቢሳ ኤጄታ ማን ናቸው?,,,,,,,NIL,{language} somali
+amh_dev_track_a_00017,የሰለጠነ ለልጅ ልጅ ጥሩ እያስተላለፉ እናት የሚገማ ፖለቲካ ተናሩ አብታሙ ኮርጅ ሁሌጥላቻ,,,,,,,NIL,"the language of the text is:
+
+{english}"
+amh_dev_track_a_00018,ህብረበሄር የሚጠላ ጌታህ እንጂ እኛ አይደለንም አንተ ህሊናቢስ ከርሳም የኦሮሙማ ገረድ አንተ ቆሻሻ ሰገራ,,,,,,,amharic,"based on the given text, i would classify it as ""amharic""."
+amh_dev_track_a_00019,የሳዑዲ ፕሮ ሊግ፡ ክሪስቲያኖ ሮናልዶ የሚመራው የእስያ እግር ኳስ አብዮት,,,,,,,amharic,"the language of the given text is:
+
+{amharic}"
+amh_dev_track_a_00020,ሀጠራው ጋላ የኢትዮጵያን ባንዲራ እየከለከላቹህ ወሬ አታውሩ ሸርሙጣዎች ሸርሙጣ ጣቢያ ተበዱ,,,,,,,amharic,"the language of the given text is:
+
+amharic"
+amh_dev_track_a_00021,እነሱ ፈጣጣ አድሏዊ ሲሆኑ የኛ ሰው ለዘሩ ያዳላል ይሉኛል በሚል ይሉኝታ የተጠረነፈ ስለሆነ ነው። የአማራ ብሔረተኝነት ገፍቶ ሄዶ ለህዝቡ ሰቆቃ መድህን መሆን የማይችለው ለዚህ ነው።,,,,,,,NIL,"the language of the given text is english. therefore, the answer is:
+{english}"
+amh_dev_track_a_00022,ደም የጠማህ ኣረመኔ እንደሰለጠነ ሃስብ,,,,,,,amharic,"the language of the given text is amharic. therefore, the response is:
+amharic"
+amh_dev_track_a_00023,ህዝበ አገሩን ይወዳል አገሩን ሲወድ መንግስትንም ይወዳል አሁን ያለው ጦርነት መልሱ የስላም ድርድር ብቻ ነው ይህንንም ቀውስ ያስነሳው የስይጣኑን ስራ የሚስራው ስይጣኑ ወያኔ ነው ህዝብና ህዝብን መንግስትና ህዝብን የሚያጋጭበት ቕቆረጣ የሚለው ወታደራዊ ስልቱ ነው ህዝብም መንግስትም ይህንን አውቆ ስላሙን ተቀብሎ ህሉም ወደ መኖሪያው እንዲመለስ በስላም ብቻ ነው ኢትዮጵያ ና ህዝቦዎችዋ የሚድኑት ስላም ካለ እግዚአብሔር እለ,,,,,,,NIL,the language of the text is english.
+amh_dev_track_a_00024,የኢትዮጵያ ኦርቶዶክስ ቤተክርስቲያን በአርሲ 36 ምዕመኖቿ መገደላቸውን አጥብቃ አወገዘች,,,,,,,amharic,"the language of the text is:
+
+amharic"
+amh_dev_track_a_00025,እኔም አራት ዓይን አለኝ? ጉዳዩ ማሸነፍ ሳይሆን ሌላውንም ማስረዳት ስለሆነ ነው። የተማርኩ ነኝና ዕውቀቴን ራሴ ላይ እንደ ንህስና ደፍቼ ልታይበት ጉራ አይነፋም። መማር ማስተማር ከሌለው ባዶነት ነው።,,,,,,,amharic,"the language of the given text is amharic. therefore, the answer is:
+
+amharic"
+amh_dev_track_a_00026,ሸዋን አትነካኩት ካለበት ይቀመጥ ቀን የከፋ ጊዜ ያወጣል ከረመጥ አማራ ሸዋ,,,,,,,amharic,"sure, i can help you with that! the language of the given text is amharic. so, the answer is:
+
+amharic"
+amh_dev_track_a_00027,አሜሪካ ዜጎቿ ወደ ሜክሲኮ እንዳይጓዙ ማሳሰቢያ ሰጠች,,,,,,,amharic,{amharic}
+amh_dev_track_a_00028,ናና ተዋጋ አተላ ነህ ይሄን ያህል የበከተ የበታችነት ስቃይ የማንነት ቀውስ እሚያሰቃይህ ሰው እማትመስል አስቀያሚ ሴጣን እከክ ነህ,,,,,,,NIL,"the language of the given text is:
+
+{somali}"
+amh_dev_track_a_00029,ኢላን መስክ የኤክስ ተጠቃሚዎች ሌላ ሰው ‘ብሎክ’ እንዳያደርጉ አደርጋለሁ አለ,,,,,,,amharic,"sure, i can help you with that! the language of the given text is:
+
+amharic"
+amh_dev_track_a_00030,ሁለተኛው ትውልድ ኢትዮጵያን ቢጎበኝ ጥሩ ነው የሚኖሩበትን አገር እንዲያደንቁ ይረዳቸዋል የኢትዮጵያ ህዝብ እንዴት በመንግስት እየተገዛ እንዳለም ግንዛቤ ይኖራቸዋልበተቃራኒው በሙስና እና ግድያ ምክንያት በኢትዮጵያ ላይ አሉታዊ አመለካከት ሊኖራቸው ይችላል,,,,,,,amharic,"the language of the text you provided is amharic. therefore, the answer is {amharic}."
+amh_dev_track_a_00031,“በቤተ ክርስቲያኗ እና በምዕመኖቿ ላይ የሚፈጸመው በምድርም ሆነ በሰማይ የሚያስጠይቅ ነው” ፡ ሲኖዶስ,,,,,,,amharic,{amharic}
+amh_dev_track_a_00032,ድሮም መንጌ ደንቆሮ የሚተነብይላት ሃገር ኤጭ። መንጌ ረጅም እድሜ የቆየው ግን ደደደብ ስለሆነ ነው። ኣሁንም 80 ዓመት ሊጨምር ይችላል,,,,,,,NIL,"based on the given text, i would classify it as {english}."
+amh_dev_track_a_00033,የመሪ ክብሩ የተቀመጠበት ወንበሩ ወይም አመዳም ገላውን ሊሸፍን የለበሰው ሱፉ አይደለም።የመሪ ክብሩ ህዝቡ ነው። ህዝብን የናቀ መሪ አወዳደቁ የከፋ ነው። ህዝቡን ስሙት!,,,,,,,NIL,"the language of the given text is:
+
+{english}"
+amh_dev_track_a_00034,ፓትርያርኩ ለኢትዮጵያ የደህንነት፤ ለምዕመናን የድኅነት ስጋት ናቸው። ከዚህ በላይ ፀረ ቤተ ክርስቲያን ምን አለ? በዚህ ወቅት ለዚህ እኩይ ሀሳብ ያጨበጨባች,,,,,,,NIL,"the language of the given text is english. therefore, the answer is:
+
+english"
+amh_dev_track_a_00035,በሽተኛ አቢይ አህመድ ኦሮሞ ነኝ ማለቱ ለኦሮሞ ሕዝብ ክብር ሳይሆን እጅግ ሊጠየፉት የሚገባ አተላ ነውእርግጥ ጃዋር 2ቱ ሌንጮዎች ዲማ መራራ በቀለ ገር,,,,,,,amharic,"based on the text you provided, i would classify it as amharic."
+amh_dev_track_a_00036,የታስሩት ተፍቱልህ ጁ ባይደን እንኳን ደስ አለህ,,,,,,,amharic,"the text you provided is written in amharic, so the language of the text is {amharic}."
+amh_dev_track_a_00037,ለምን ስሜታዊ መሆን አስፈለገ አሁንም ማን ይሙት ለሰላሳ አመት የተጠነሰስውን ባንድ ጀንበር ጥቅልል እድርጎ ለእብይ መርገም እርግማን አይሆን,,,,,,,NIL,"the given text is written in english. therefore, the language of the text is:
+
+{english}"
+amh_dev_track_a_00038,የቀድሞው የአንጎላ መሪ ልጅ የ15 ሚሊዮን ዶላር ቤቷን አፍርሳ ልትገነባ ነው,,,,,,,amharic,"the language of the given text is:
+
+amharic"
+amh_dev_track_a_00039,እነዚህ በፈረንጅ missionaries ተምረው አሁን ደግሞ በግብፅ ተገዝተው ነው የኢትዩጽያን መከራ የሚያበዙት።,,,,,,,amharic,"the language of the text you provided is amharic. therefore, the answer is:
+
+{amharic}"
+amh_dev_track_a_00040,ክቡሩ አንባሳደር ሬዱዋን ለሀገር የምትሰሩት በሙሉ እናመሰግናለን እኔ ግን በሳውዲ እስር ቤት ላሉ ኢትዮዮጵያን መላ ብታበጅ,,,,,,,NIL,"the text you provided is written in the somali language, which is spoken in somalia and other parts of east africa. therefore, the language of the text is:
+
+{somali}"
+amh_dev_track_a_00041,እረ ፕራንክ ምታረጉትን ነገር እየለያችሁ በጣም እኮ ነዉ ያስለቀስካት,,,,,,,amharic,"the language of the given text is:
+
+{amharic}"
+amh_dev_track_a_00042,የነፃነት ትግሉ ከረቂቅ እስከ ደቂቅ ያሳተፈ ነው ጀግናው ሠራዊታችን አባል የሆነው ዶር ህዝብህን ለማገልገል እስከ ሕይወት መስዋትነት የሰጠህ ጀግናችን ዕድሜና ጤና ተመኘን,,,,,,,NIL,"the language of the text you provided is english. therefore, the answer is:
+
+{english}"
+amh_dev_track_a_00043,አይ EBC የብልፅግና ማይከ እንደሆናችሁ ትኖሩ። የዜጎቻችን ሞት ና ራብ አንዲት ቀን አትዘግቡም። ስለ አሜሪካ ውሻ መንከስ ምን አገባን።,,,,,,,NIL,"{language}
+english"
+amh_dev_track_a_00044,እኔም በጣም አመሰግንሃለሁ! ምክንያቱም ለኦሮሞ ህዝብ ጥላቻ መንግስትን ኦሮሙማ ተረኛ እያልሽ ከነባልደረቦችሽ ስትሳደቡ በቅናት ስትለፈልፉ የነበረው የኦሮሞን ህዝብ ከዳር እስከ ዳር አነቃቅተዉ አንድ ስላደረገው ይበልጥ ልፋታቹ እናንተ እንዳሰባቹት ሳይሆን ነገሩ ወዲህ ነው። የቆጡን አዉርድ ብላ የብብብቷን ጣለች ነው ነገሩ,,,,,,,amharic,the language of the given text is amharic.
+amh_dev_track_a_00045,ኢትዮጵያ ድንገት በተጠቃች ጊዜ፣ የመጨረሻው መጀመሪያ የተቃረበ በመሰለ ጊዜ፣ ከእኔ ሌላ ማን አላት ብላችሁ በጊዜ፣ በገንዘብ፣ በቁሳቁስና በአድቮኬሲ ለደገፋችሁ በዳያስፖራ ለምትገኙ ለ,,,,,,,NIL,"the language of the text you provided is:
+
+{somali}"
+amh_dev_track_a_00046,ድሮስ የነጭ አምላኪዎች የነስብሐት ልጅ አደል እኔ ኮ ግሮም ሚለኝ ይህ ሀሉ ውሸት ለምን ።,,,,,,,NIL,"the language of the text is:
+
+{somali}"
+amh_dev_track_a_00047,ፋኖ ጣሊያናዉይ መሠላችሁ ከአማራ ህዝብ የወጣ የአማራ ማንነት እየተቀላ ሸቶ ሲቀበር እንደሠዉ መኖር አልችል ሲል የተነሣ ቆፍጣና ሀይል እንጂ ቅጥረኛ መድረሻ ያጣ ወታደር አይደለም አንድ ኢትዮጲያ ምርጥ መርህ ይዛ ባረባ ፖለቲካ ተደልሎ አይቆምምም,,,,,,,amharic,"based on the given text, i would classify it as amharic."
+amh_dev_track_a_00048,አይደለም አማራ ማንም ኢትዮጵያዊ መሞት የለበትም ስሜታዊ አንሁን።,,,,,,,amharic,"based on the given text, i would classify it as {amharic}."
+amh_dev_track_a_00049,እስራኤል ‘አሸባሪ አገር’ ናት ያለችው አየርላንዳዊት ከሥራ ተባረረች,,,,,,,amharic,{amharic}
+amh_dev_track_a_00050,እኔ የማመልከው እግዚአብሔር ብቻ ነው እኔ ቀናተኛ አምላክ ነኝ ላለው ፈጣሪየ ብቻ ነው የምሰግደው❤🙏,,,,,,,NIL,the language of the given text is english.
+amh_dev_track_a_00051,አላህ ይርዳቸው የጀነት ሰው ያርጋቸው እስራኤል ምትባል ሀገር አልነበረችም ከ1948 በፊት እና stmeseret flstinochn ገላ afenakla ነው ብዙ ግፍ ነው yaderesechbachew ይሄ ስለ እምነት ጉዳይ አይደለም ስለ ሰባዊነት ነው ለነሱ iskahakmachn ድምፅ እንሁን ውድ ኢትዮጵያዊያን,,,,,,,amharic,the language of the text you provided is amharic.
+amh_dev_track_a_00052,ኣይ ጄብቴት ስንት መከራ ነው የምታየው  ተቃጠልክ እኮ  ግን ለምን ጠቅልለህ ኣትሄድም,,,,,,,amharic,"the language of the given text is:
+
+amharic"
+amh_dev_track_a_00053,የእዉነት አምላክ ታላቁ እግዚአብሔር ታርክን ገልብጦአል። የሃጥያት ወጋ ሞት ነዉ,,,,,,,amharic,"the language of the text is:
+
+amharic"
+amh_dev_track_a_00054,ኬንያ ነርሶችን ጨምሮ 2500 የተማሩ ሠራተኞችን ወደ ሳዑዲ ልትልክ ነው,,,,,,,amharic,"the language of the given text is:
+
+amharic"
+amh_dev_track_a_00055,እያመመው መጣ ያማል የሄደ የመጣው ሲገለው ሲደፍረው ሲሸጠው ሲለውጠው የነበረ ህዝብ ነው የአማራ ህዝብ ስለ ኢትዮጵያ መዝፈኑን ትቶ ስለ አማራ እራሱን ማስከበር ህጋዊ ብቻ ሳይሆን ተፈጥሮዊም መብቱ ነው,,,,,,,NIL,the language of the text you provided is english.
+amh_dev_track_a_00056,የቅርብ ቤተሰብ የለውም??? ኧረ እየባሰበት እኮ ነው፤ መታከም የማይችልበት ደረጃ ሳይደርስ ቢታይ ጥሩ ነው።,,,,,,,amharic,"based on the given text, i would classify it as {amharic}."
+amh_dev_track_a_00057,ስምህን ቀይር ራስ ደጀን አይደለህም።ከዛሬ ጀምሮ ደጀኔ ነው ስምህ።አማራ መጠየቅ አቁሞ ማዘዝ እንዳይችል የምትተበትቡት የአንተ አይነት ልፍስፍስ ነው። መልካም የልመና ኑሮ ደጀን!,,,,,,,amharic,"the language of the text is:
+
+{amharic}"
+amh_dev_track_a_00058,ቢኒያም ሽታዬ በሃይማኖት ስም የሚያጭበረብር ሌባ ስለሆነ ማንም ሰው ልሰማው አይገባም !!!,,,,,,,amharic,{amharic}
+amh_dev_track_a_00059,በጣም እናመሰግናለን የኛንም ሀገር ወደ ሰላም ተመልሶልን ለህዝብ ደስታ ፈጣሪ ያሳየን,,,,,,,NIL,the language of the given text is english.
+amh_dev_track_a_00060,የርዋንዳ ጄኖሳይድ ቀስቃሾች ስልጣን ላይ የነበሩ ናቸው አሁንም የኦሮሞ ብል ግና እየሰራ ያለው ሁሉ አገሪቷን ከርዋንዳም የከፋ ዕልቂት ለመፍጠር ነው የመንግስት አካሄድ ለአገር ሥጋት ነው!,,,,,,,amharic,"the language of the given text is:
+
+{amharic}"
+amh_dev_track_a_00061,ይሄ ሰውዬ እስኪ ሲናገር ፊቱን ልብ ብላችሁ ተመልከቱት ተልእኮ ተሰጥቶት እንደሚተውን በደንብ ያስታውቅበታል ይህ ግለሰብ ያለ ጥርጥር አማራን ለመከፋፈል የተፈጠረ የወሎዬም የአማራም እንዲሁም የኢትዮጵያ ጠላት ነው ወሎን ከአማራ በመነጠል ለሰልቃጩ ተረኛ ለማቀበል የተፈጠረ አደገኛ የአማራ ጠላት ነው,,,,,,,NIL,the language of the text is english.
+amh_dev_track_a_00062,ይሄ እንግዳ ሊያድር ነው መሰለኝ ቸኮለ ?,,,,,,,amharic,{amharic}
+amh_dev_track_a_00063,የኢትዮጵያ እና የሶማሊያ ወታደራዊ አቅም ሲነጻጸር,,,,,,,amharic,"the language of the given text is:
+
+amharic"
+amh_dev_track_a_00064,ይገበዋል ምርጥ መሪ ነው ለሌሎች ጥሩ ምሳሌ ነው ሰርቆ ለሚሸሹ መሪዎች,,,,,,,NIL,"the language of the text you provided is:
+
+{oromo}"
+amh_dev_track_a_00065,ተው ለምን? እግዚአብሄር ይደረስላቸው ይህንን አለም ማን ቀድሞ ትቶ ድንገት ጥሎ ይሚሄድ አይታወቅም ለክፉዎች ልቦና ይስጥ,,,,,,,amharic,"based on the given text, i would classify it as amharic."
+amh_dev_track_a_00066,ቤንሻንጉልን እንደ ጥሩ ምሳሌ የጠቀስከው እዜያ አይደለም ወይ ሰው በዘሩ እየተመረጠ እየታረደ ኩላሊቱ የተበላው አይ ብሔር ፖለቲካ,,,,,,,NIL,{language} tigrayan
+amh_dev_track_a_00067,ይህንን እያዩም እውነቱን ይክዳሉ ከዛም ድንገት በተኛንበት ተወጋን ብለው ይጮሃሉ ይልቁንስ በተኛበት የተወጋው ዝግጅታቸውን ኣጠናቀው የነበሩት እነርሱ ወይስ,,,,,,,NIL,"based on the given text, i would classify it as english."
+amh_dev_track_a_00068,አረ በህግ አምላክ ምን አይነት ጥያቄ ነው የሚጠይቁት  በእውነት አድነን አምላኬ በጭራሽ የማይታሰብ ዘግናኝ ጥያቄ ነው የጠየቀው,,,,,,,NIL,{language} somali
+amh_dev_track_a_00069,ከካንሰር የከፋ የጤና ችግር ኣለ መድሃኒቱን መንግስት ቢያቀርብ ጥሩ ነብር ካላደረገ ግን ለምን ይከለከላል,,,,,,,NIL,"the language of the given text is:
+
+{english}"
+amh_dev_track_a_00070,የአብይ አህመድ አሻራዋች 1 ከቡራዩ ግድያዋች አንስቶ በሚሊዮኖች ሞትና ስደት 2 የብሄር ጥላቻ መስፋት 3 ውሸትና አጭበርባሪነት 4 የዘር አድሎ 5 ሙስናና ሌብ,,,,,,,NIL,{english}
+amh_dev_track_a_00071,ልጄን ዘመድ ቤት መላክ ፈራሁ አላህ ሦብር ይሥጣችሁ የከፋ ዘመን ላይ ደረሥን,,,,,,,amharic,{amharic}
+amh_dev_track_a_00072,ፋር ሆይ ና ዉሳደኝ መይካ እኔንም ልሳብካኝ ነው እንዴ😬😬😬😳አይ ከንቱ አለም😭😭😭🚶🚶🚶,,,,,,,NIL,"the language of the given text is:
+
+english"
+amh_dev_track_a_00073,ልክ ነሽ ጌታ ዘመንሽን ይባርከው,,,,,,,amharic,{amharic}
+amh_dev_track_a_00074,ግብዝ አመራሮች አሉ ሀገር መምራት ምን እደሆነ ማይገባቸዉ ወደ መንደራቸዉ ብቻ ሚያስቡ ጀዋር መሀመድ የዘመኑ ምርጥ ንግግር ዘርህ ይባረክ የኦሮሞን ታሪክ ሚያጠረሹ ያሳፍራል የእዉት ኦሮሞ ተብድሎዋል ትክክል ግን,,,,,,,amharic,"based on the given text, i would classify it as amharic. the language of the text is written in the ge'ez script, which is the native writing system of amharic and other ethiopian languages. the text also contains words and phrases that are characteristic of amharic, such as ""ግብዝ"" (gamba), ""አመራሮች"" (amarat), ""አሉ"" (al), ""ሀገር"" (hagos), ""መምራት"" (mengistu), and ""የዘመኑ"" (yekuno amlak). therefore, the language of the text is amharic.
+
+{amharic}"
+amh_dev_track_a_00075,ሀላል በዚህ ግፋችሁ የውሻ ሞት እየሞታችሁ ነው,,,,,,,amharic,{amharic}
+amh_dev_track_a_00076,በጣም ያማል 💔💔💔😭ያለቀስኩ ነው የጨረስኩት,,,,,,,amharic,"the language of the given text is:
+
+amharic"
+amh_dev_track_a_00077,አረ ወዴት እየሄድ ነው በፕሮቴስታንት ስም ዱሪ ዘራፊ ሌባ በዛ ምን ይሸለል ወጋን የሃይመኖት መሪዎች ምን ነው ህዝቡ እንዲህ የማንም ጋጠወጥ ዱሪዬ መቀለጃ ሲሆን ዝም አለችሁ ምን ነው ጌታ ደሙን የፈሰሰሰለት እነንተስ የለፈችሁበት ህዝብ በዱሪዬ ሲበዘበዝ መፈጨ ሲሆን ዝምጭጭጭ አለቹሁ ድከመችሁስ አየሰዝነችሁም እነንተም መንግስትም ዝም ሚል ከሆና ቀለል ነው እኛ እርምጃ እወስደለን ።,,,,,,,NIL,the language of the text is english.
+amh_dev_track_a_00078,Ephrem H. Afework የሙስሊም ጥላቻ ስላንገበገበህ እንጅ የሠው ህይወት የሚቀጥፍት አለም ያውቃቸዋል,,,,,,,NIL,{english}
+amh_dev_track_a_00079,በልጆቹ እና ቤተሰብ ቦታ ሆኖ ማሰብ ይከብዳል፣ ሚኒስቴሩ ትት የሚቀጥሉበትን አማራጮች ቢያይ,,,,,,,NIL,"the language of the given text is english. therefore, the response is: {english}"
+amh_dev_track_a_00080,በብልፅግና የሚመሩ የክልል መንግስታት በሚል ይታረም። ምክንያቱም የክልል መንግስታት ከፓርቲ በላይ የነበሩበት ወቅት ስለነበረ። በተጨማሪም አሁን ስጋት ሲሆኑበት የሚለውም ትክክል አይመስለኝም።,,,,,,,NIL,"{language}
+english"
+amh_dev_track_a_00081,ብልጽግናን እንደምን ያለች ብልግና እንደሆነች አየናት,,,,,,,amharic,"based on the given text, i would classify it as amharic. therefore, the language of the text is amharic."
+amh_dev_track_a_00082,በአማራ፣ በኦሮሚያ እና በቤኒሻንጉል ክልሎች በጥቅምት እና በኅዳር በርካታ ሰዎች መገደላቸውን ኢሰመኮ አስታወቀ,,,,,,,NIL,"based on the given text, i would classify it as {english}."
+amh_dev_track_a_00083,ፍልስጤማዉያን በገዛ መሬታቸዉ ለአመታት ሲጮኮኑ ሲገደሉ ሲበደሉ ዙሪያቸዉን አጥረዉ ለሰዉ ለጅ የማይገባ ስቃይ እስራኤል አድርሳለች ፍልስጤማዊያን ከማመፅ ውጭ ሌላ አማራጭ አላቸዉ መጀመሪያም እየተገደሉ ነበር ከሃይማኖተኝነት ወታቹ ታሪክ ተመልከቱ አለምነዋሴ አንተ የአንድ ወገን ቲፎዞ ነክ ጋዜጠኛ አያስብልክም በአንደበትክ ማንም አይጃጃል ተባኖብካል በዉስጥ የለዉን እፃን ልጅ ያቀዋል,,,,,,,NIL,the language of the text you provided is english.
+amh_dev_track_a_00084,ሀገራችን ያጣችው ዶክተር እና ፕሮፈሰር ሳይሆን ጥሩ አሳቢ እናመልካም መሪ ነው ሴረኛ እና ዘረኛን እግዚአብሔር ያንሳላት ከሰየጠኑ ምሁራን ተብየዎች,,,,,,,NIL,{english}
+amh_dev_track_a_00085,የአገሪቷ የዘመናት ችግሮች ከተስፋፊው ክልል ከሚመነጩ ከኛ ውጪ ወደ ውጪ ጥሩ ነገር ሁሉ የኛ የሚሉ አክራሪና ተስፋፊ ሃይሎች እንደሆነ ታሪክ ይመሰክራል።አገሪቱ ዘላቂና አስተማማኝ ሰላ,,,,,,,amharic,"based on the text you provided, i would classify it as amharic. the language of the text is consistent with the grammar and syntax of amharic, and it contains words and phrases that are typical of the language. therefore, my answer is {amharic}."
+amh_dev_track_a_00086,አብዩ ብርሌ የሚባል ግራ የገባው ሰው አለ ። እርስ በርሱ የሚጣለዝ ግለ ታሪክ ቢጤ ጽፏል ። እሱና የሱ ትውልድ በቅጡ በማያውቁት ሶሺያሊዝም የእውር ድንብር ፍቅር ይዟቸው የኢትዮጵያን,,,,,,,NIL,"the text you provided is written in english. therefore, the language of the text is english.
+
+{english}"
+amh_dev_track_a_00087,አማን አንዳንዴ እየጦዝክ ነው አውነታውን እያወክ ያማል ቅኔው,,,,,,,amharic,the language of the text is: amharic
+amh_dev_track_a_00088,?አይናፋሯ ልጅ ከከተማው አደገኛ ወንበዴ ጋር ፍቅር ጀምራ ህይወቷ ይመሰቃቀላል sera film mert fil via,,,,,,,amharic,the language of the text is amharic.
+amh_dev_track_a_00089,የሰማይ የምድር ጌታ በቤታቸው በኑሮዋቸው በልጆቻቸው በዘመድ ባዝማዳቸው ችግር አዘን መከራ አዘን ይግባባቸው,,,,,,,NIL,{english}
+amh_dev_track_a_00090,የእስራኤል ደህንነት ማስፈራሪያዎች እየሰነዘሩባቸው እንደሆነ የደቡብ አፍሪካዋ ሚኒስትር ተናገሩ,,,,,,,NIL,"based on the given text, i would classify it as {english}."
+amh_dev_track_a_00091,እካን እሳ እኔም አስለቀሰቺኝ እካን ፕራንክ ሆነ,,,,,,,amharic,"based on the given text, i would classify it as amharic. therefore, the language of the text is amharic."
+amh_dev_track_a_00092,አለም በጣም ነው ምወድክ ገና ልጅ እያለው እሁድ ጠዋት ከቤተክርስቲያን ስመጣ በሬዶውን ልብ ለልብ ደብዳቤ ከተነበበ በዋላ ያንተን ዜና ለወስማት በጣም ጎጎ ነበር አለም አንተ ጥሩ ጋዜጠኛ ነህ በውነት ገደለ አነቀወገቤን አለ አለም በቃ ነገ ከሩሲያ ካልራራች በቃ ጠፋን አሜሪካ ካለራራች በቃ አለም ጠፋች እስራኤል ካልራራችቻይናኢሪንእንጊሊዝጀርመን አለምነህ የሰውን ልብ የሚያየው እግዚያብሔር ነው በቃ አንተ እንደ ጥንቱ ዜናህን ስሪ አንተ የ ምተ,,,,,,,NIL,the language of the text is english.
+amh_dev_track_a_00093,በጦርነት ሚፈጠር ነው እስኪ ስለፈልስጤም ሆስፒታል አውራ አለህ ስለፈጠረው ሰው የሰው ልጅ አያጠፉውም እወቅ ገና እስራኤል ትጠፉለች ድል ለፈልስጤም ሞት ለእስራኤል,,,,,,,NIL,"the text you provided is written in english. therefore, the language of the text is english.
+
+{english}"
+amh_dev_track_a_00094,ኦሃድ ውድና በጣም እግዚኣብሔር መልካም እውቀት ያለው ስው ነህ አርቆ የሚያስብ ስው እውነተኛ ለመሬት ሳይሆን ለኢትዮጵያና ለኤርትራ ህዝብ መፍትሄ ነው የሚናገረው በጣም እናመስግናለን እግዚኣብሔር አንተን እና ቤተሰቦችህ ይባርካቹ,,,,,,,amharic,"the language of the given text is amharic. therefore, the answer is:
+
+amharic"
+amh_dev_track_a_00095,ከሥነ ምግባር ውጪ የሆነ ቪዲዮ አሰራጭታለች የተባለች ታዋቂ ናይጄሪያዊት ቲክቶከር ታሰረች,,,,,,,amharic,"the language of the text you provided is amharic. therefore, the answer is:
+
+amharic"
+amh_dev_track_a_00096,እኔ ያልገባኝ ነገር መጀመሪያ ማን አይዞህ ብሎት ነው ከአሜሪካ ጋር ሰጣ ገባ ውስጥ የገባው? ኮትኩተው እንዳሳደጉት አለቆቹ እየታዘዘዘ የስልጣን ዘመኑን እያራዘመ መኖር አይችልም ነበር ወይ? አሁንእኮ ሁኔታው አይኑን አፍጥጦ ገሀድ ወጥቷል በሀገር ላይ ስንት እልቂት የፈፀሙ ሰወች ለህግ አይቅረቡ፣ ተይዘው የታሰሩ ሰወች ይፈቱ የሚለው ትዛዝ ከአሜሪካ ከመጣና መንግስትም ተቀብሎ ከፈፀመ የሀገርን መከላከያ ሠራዊት እንዲጨፈጨፍ ትዛዝ የሰጠው,,,,,,,NIL,the language of the text is english.
+amh_dev_track_a_00097,ምንም አይነት ሰው ይሁን እኔ ደስ አይለኝም,,,,,,,amharic,"i apologize, but the text you provided does not contain any language that i can identify. the text appears to be a mixture of different languages and dialects, including amharic, somali, and oromo. please provide me with a single sentence or paragraph of text in one language for me to classify accurately."
+amh_dev_track_a_00098,አወ ሰወሁሉ አድማ ማድረግ አለበት ስጋአንበላም ብሎ ዝግናኝ ዜና,,,,,,,amharic,"based on the text you provided, i would classify it as amharic."
+amh_dev_track_a_00099,እኛም ነቅጠናል የአማራን ግድያ እና ሞት ምንም አይነት መረጃ አጀንዳ ለማስቀየር ነው,,,,,,,NIL,"the language of the given text is:
+
+{english}"
+amh_dev_track_a_00100,በጣም የሚገርም ነው ።አንተ የምትለው ሌላ ሬድዋን የሚለውሌላ,,,,,,,NIL,{language} somali
