@@ -5,7 +5,7 @@ from textblob import TextBlob
 import csv
 import string
 import re
-from  lang_detection_lib.lang_classify import TextClassify
+from lang_detection_lib.lang_classify import TextClassify
 
 
 dataset_list = {
@@ -20,7 +20,7 @@ dataset_list = {
     "rus": "ru",
     "som": "so",
     "sun": "su",
-    "tir": "ti"
+    "tir": "ti",
 }
 
 classifier = TextClassify()
@@ -34,31 +34,30 @@ for dataset, target_language in dataset_list.items():
         label = classifier.classify(entry)
 
         if label == dataset:
-            count+=1
+            count += 1
             continue
-        
+
         try:
             label = detect(entry)
 
             if label == dataset:
-                count+=1
+                count += 1
                 continue
 
         except:
             pass
 
-
         try:
             label = detect(entry)
-            print(label)
+            # print(label)
             if label == dataset:
-                count+=1
+                count += 1
                 continue
 
         except:
             pass
-        
+
     print(f"Dataset {dataset}")
     print(f"{count}/{length}")
-    print(count/length)
+    print(count / length)
     print("")
