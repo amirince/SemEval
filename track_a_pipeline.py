@@ -1,6 +1,7 @@
 from example_analysis_pipeline import LangEvalAlgo
 import asyncio
 import pandas as pd
+import time
 
 ### For testing purposes:
 judge_model = "llama3.1:8b"
@@ -58,3 +59,5 @@ for dataset in dataset_list:
     new_data = pd.DataFrame(new_df)
     new_data.to_csv(f"results_complete/{dataset}.csv", index=False)
     print("written to folder")
+
+    time.sleep(300)
