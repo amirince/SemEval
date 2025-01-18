@@ -26,14 +26,14 @@ evaluator = LangEvalAlgo(
 
 dataset_list = [
     "afr.csv",
-    # "amh.csv",
-    # "deu.csv",
-    # "eng.csv",
-    # "oro.csv",
-    # "ptbr.csv",
-    # "rus.csv",
-    # "som.csv",
-    # "tir.csv",
+    "amh.csv",
+    "deu.csv",
+    "eng.csv",
+    "oro.csv",
+    "ptbr.csv",
+    "rus.csv",
+    "som.csv",
+    "tir.csv",
 ]
 
 
