@@ -3,9 +3,9 @@ import asyncio
 import pandas as pd
 
 ### For testing purposes:
-judge_model = "llama3.2:1b"
+judge_model = "llama3.1:8b"
 
-jurors = ["phi:latest"]
+jurors = ["llama3.2:1b", "llama3.2:3b", "llama2:latest", "llama3:latest"]
 
 poss_emo = ["Anger", "Fear", "Joy", "Sadness", "Surprise"]
 
@@ -26,19 +26,20 @@ evaluator = LangEvalAlgo(
 
 dataset_list = [
     "afr.csv",
-    "amh.csv",
-    "deu.csv",
-    "eng.csv",
-    "oro.csv",
-    "ptbr.csv",
-    "rus.csv",
-    "som.csv",
-    "tir.csv",
+    # "amh.csv",
+    # "deu.csv",
+    # "eng.csv",
+    # "oro.csv",
+    # "ptbr.csv",
+    # "rus.csv",
+    # "som.csv",
+    # "tir.csv",
 ]
 
 
 for dataset in dataset_list:
     data = pd.read_csv(f"public_data/train/track_a/{dataset}")
+    data = data.head(1)
     new_df = []
     for index, row in data.iterrows():
         example = row["text"]
