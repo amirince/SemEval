@@ -15,10 +15,7 @@
 
 # Identify language here
 
-import ollama
-import jinja2
 import subprocess
-import os
 import asyncio
 import subprocess
 import pandas as pd
@@ -54,7 +51,7 @@ class LangEvalAlgo:
 
         judge_response = await self._judge(example, juror_assessments=juror_responses)
 
-        print(judge_response)
+        return judge_response
 
     async def _judge(self, example: str, juror_assessments: list):
 
@@ -163,8 +160,8 @@ Given the instructions analyse the following text and determine the emotions per
 "{{text}}"
 
 
-Please provide a brief explanation for your emotion choices.
-
+Please provide a brief explanation for your emotion(s) choice(s).
+Note: The text can exhibit multiple emotions.
 """
 
 JUDGE_TEMPLATE = """
@@ -203,20 +200,22 @@ Pay attention to the range of emotions identified, the frequency of specific emo
 
 Based on your analysis, determine the primary emotion(s) conveyed in the text. 
 
+Please only provide the final emotion(s) in your response. You do not need to explain your thought process.
 """
 
 
-judge_model = "llama3.2:1b"
+# ### For testing purposes:
+# judge_model = "llama3.2:1b"
 
-jurors = ["phi:latest"]
+# jurors = ["phi:latest"]
 
-poss_emo = ["Anger", "Fear", "Joy", "Sadness", "Surprise"]
+# poss_emo = ["Anger", "Fear", "Joy", "Sadness", "Surprise"]
 
-example = "I really love Christmas time"
+# example = "I hate this world"
 
-evaluator = LangEvalAlgo(
-    juror_models=jurors, judge_model=judge_model, possible_emotions=poss_emo
-)
+# evaluator = LangEvalAlgo(
+#     juror_models=jurors, judge_model=judge_model, possible_emotions=poss_emo
+# )
 
-
-asyncio.run(evaluator.run(example=example))
+# resp = asyncio.run(evaluator.run(example=example))
+# print(resp)
