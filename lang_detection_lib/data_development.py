@@ -9,7 +9,7 @@ import re
 
 dataset_list = [
     "afr",
-    # "amh",
+    "amh",
     "arq",
     "ary",
     "chn",
