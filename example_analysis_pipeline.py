@@ -109,11 +109,6 @@ class LangEvalAlgo:
         # Terminate the Model after getting responsem(This save memory)
         # we do not want numerous instances of different models open at the same time
         # GPU go brrr....
-        subprocess.Popen(
-            ["ollama", "stop", model],
-            stdout=subprocess.DEVNULL,
-            stderr=subprocess.DEVNULL,
-        )
 
         # Parse the raw string return from the LLM
         return response["message"]["content"]
