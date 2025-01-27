@@ -25,38 +25,38 @@ poss_emo = [
 ]
 
 dataset_list = [
-    "afr",
-    "amh",
-    "arq",
-    "ary",
-    "chn",
-    "deu",
-    "eng",
-    "esp",
-    "hau",
-    "hin",
-    "ibo",
-    "ind",
-    "jav",
-    "kin",
-    "mar",
-    "orm",
-    "pcm",
-    "ptbr",
-    "ptmz",
-    "ron",
-    "rus",
-    "som",
-    "sun",
-    "swa",
-    "swe",
-    "tat",
-    "tir",
-    "ukr",
-    "vmw",
-    "xho",
-    "yor",
-    "zul",
+    # "afr",
+    # "amh",
+    # "arq",
+    # "ary",
+    # "chn",
+    # "deu",
+    # "eng",
+    # "esp",
+    # "hau",
+    # "hin",
+    # "ibo",
+    # "ind",
+    # "jav",
+    # "kin",
+    # "mar",
+    # "orm",
+    # "pcm",
+    # "ptbr",
+    # "ptmz",
+    # "ron",
+    # "rus",
+    # "som",
+    # "sun",
+    # "swa",
+    # "swe",
+    # "tat",
+    # "tir",
+    # "ukr",
+    # "vmw",
+    # "xho",
+    # "yor",
+    # "zul",
 ]
 
 
@@ -85,7 +85,7 @@ for dataset in dataset_list:
     data = pd.read_csv(file_path)
 
     buffer = []
-    batch_size = 50
+    batch_size = 25
 
     output_file = f"results_complete/{dataset}.csv"
 
