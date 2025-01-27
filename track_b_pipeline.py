@@ -1,4 +1,4 @@
-from example_analysis_pipeline_track_b import LangEvalAlgo
+from example_analysis_pipeline import LangEvalAlgo
 import asyncio
 import pandas as pd
 import time
@@ -14,7 +14,7 @@ judge_model = "llama3.1:8b"  # this is the main judge model.
 #     "llama3:latest",
 # )  # need to cut this down to one.
 
-juror_model = "llama3.2:4b"
+juror_model = "llama3.2:3b"
 
 poss_emo = [
     "Anger",
@@ -25,11 +25,7 @@ poss_emo = [
 ]
 
 dataset_list = [
-<<<<<<< HEAD
     # "afr",
-=======
-    "afr",
->>>>>>> 6123e21 (Mac)
     # "amh",
     # "arq",
     # "ary",
@@ -56,19 +52,11 @@ dataset_list = [
     # "swe",
     # "tat",
     # "tir",
-<<<<<<< HEAD
-    # "ukr",
-    # "vmw",
-    # "xho",
-    # "yor",
-    # "zul",
-=======
     "ukr",
     "vmw",
     "xho",
     "yor",
     "zul",
->>>>>>> 6123e21 (Mac)
 ]
 
 
@@ -95,15 +83,12 @@ for dataset in dataset_list:
         continue
 
     data = pd.read_csv(file_path)
+    data = data.head(3) # remove when done 
 
     buffer = []
-<<<<<<< HEAD
-    batch_size = 25
-=======
-    batch_size = 1
->>>>>>> 6123e21 (Mac)
+    batch_size = 50
 
-    output_file = f"results_complete/track_b/{dataset}.csv"
+    output_file = f"results_complete/{dataset}.csv"
 
     for index, row in data.iterrows():
         print(f"Processing Example: {index}")
