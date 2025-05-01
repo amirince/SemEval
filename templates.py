@@ -140,5 +140,5 @@ Pay attention to the range of emotions identified, the frequency of specific emo
 
 Based on your analysis, determine the primary emotion(s) conveyed in the text. 
 
-Please only provide the final emotion(s) in your response. You do not need to explain your thought process.
+Please only provide the final emotion(s) in your response. Do not to explain your thought process.
 """

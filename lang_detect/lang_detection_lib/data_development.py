@@ -1,10 +1,7 @@
-from langdetect import detect
-import pandas as pd
-import langid
-from textblob import TextBlob
 import csv
 import string
 import re
+import pandas as pd
 
 
 dataset_list = [
@@ -41,12 +38,6 @@ dataset_list = [
     "yor",
     "zul",
 ]
-
-
-import pandas as pd
-import string
-import re
-import csv
 
 
 def clean_word(word):
@@ -100,5 +91,5 @@ def get_bag_of_word(target_language, data_path):
 
 # Process multiple datasets
 for dataset in dataset_list:
-    DATA_PATH = f"lang_id_data/{dataset}.csv"
+    DATA_PATH = f"train_data/{dataset}.csv"
     get_bag_of_word(dataset, DATA_PATH)

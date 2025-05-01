@@ -54,7 +54,9 @@ class LangEvalAlgo:
 
         return juror_results
 
-    async def _judge(self, example: str, juror_assessments: list) -> str:
+    async def run_judge(
+        self, example: str, language: str, juror_assessments: list
+    ) -> str:
         """_summary_
 
         Args:
@@ -67,6 +69,7 @@ class LangEvalAlgo:
         # Create the judge prompt make final decision
         prompt = self._create_judge_template(
             example=example,
+            example_lang=language,
             juror_assessments=juror_assessments,
         )
         judge_response = await self._query_model(self._judge_model, prompt)
@@ -110,11 +113,14 @@ class LangEvalAlgo:
 
         return juror_template
 
-    def _create_judge_template(self, example: str, juror_assessments: list) -> str:
+    def _create_judge_template(
+        self, example: str, example_lang: str, juror_assessments: list
+    ) -> str:
         """Generate a string prompt (template) to pass to the judge.
 
         Args:
             example (str): example to be evaluated
+            example_lang (str): language of example
             template (str): template to inject example into for prompt creation
 
         Returns:
@@ -129,7 +135,7 @@ class LangEvalAlgo:
         # inject assessments into judge template
         judge_template = (
             JUDGE_TEMPLATE.replace("{{juror_assessment}}", formatted_assessments)
-            .replace("{{lang_id}}", self._example_lang)
+            .replace("{{lang_id}}", example_lang)
             .replace("{{possible_emotions}}", str(self._possible_emotions))
             .replace("{{text}}", example)
         )
@@ -156,5 +162,5 @@ class LangEvalAlgo:
             ],
         )
 
-        # Parse the raw string return from the LLM
+        # Parse the raw string returned from the LLM
         return response["message"]["content"]
