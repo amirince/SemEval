@@ -4,15 +4,7 @@ import pandas as pd
 import time
 import os
 
-### For testing purposes:
 judge_model = "llama3.1:8b"  # this is the main judge model.
-
-# jurors = (
-#     "llama3.2:1b",
-#     "llama3.2:3b",
-#     "llama2:latest",
-#     "llama3:latest",
-# )  # need to cut this down to one.
 
 juror_model = "llama3.2:3b"
 
